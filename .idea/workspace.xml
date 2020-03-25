@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40561ef2-bbde-45fe-a649-5655522ee654" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a98b326b-a1cd-451e-a532-ac34e23ba62d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a98b326b-a1cd-451e-a532-ac34e23ba62d.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40561ef2-bbde-45fe-a649-5655522ee654" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +110,7 @@
   </component>
   <component name="ProjectId" id="1VLQZD8HDhdkPCmEZNiRki73RVt" />
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -467,7 +466,7 @@
       <workItem from="1583982757667" duration="4304000" />
       <workItem from="1584429479990" duration="1145000" />
       <workItem from="1585131323298" duration="554000" />
-      <workItem from="1585133841617" duration="52000" />
+      <workItem from="1585133841617" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="在idea上第一次修改">
       <created>1585131667588</created>
@@ -483,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585131719175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="在idea上第一次修改！">
+      <created>1585133943601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585133943602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +510,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="在idea上第一次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="在idea上第一次修改" />
+    <MESSAGE value="在idea上第一次修改！" />
+    <option name="LAST_COMMIT_MESSAGE" value="在idea上第一次修改！" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="0" key="#Intentions" timestamp="1577764690850">
@@ -544,10 +551,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="786" y="48" width="601" height="721" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1578690171851" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1585131934663">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1585133941478">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585131934663" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585133941478" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1578571724475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -686,10 +693,10 @@
     </state>
     <state x="218" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578703622518" />
     <state x="218" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585133893368" />
-    <state x="261" y="105" key="Vcs.Push.Dialog.v2" timestamp="1585131750260">
+    <state x="261" y="105" key="Vcs.Push.Dialog.v2" timestamp="1585133948297">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="105" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585131750260" />
+    <state x="261" y="105" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585133948297" />
     <state x="527" y="209" width="481" height="402" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1578228006611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -698,11 +705,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1578495875901" />
-    <state x="86" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1585133842250">
+    <state x="86" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1585140623975">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="406" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578710370579" />
-    <state x="86" y="183" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585133842250" />
+    <state x="86" y="183" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585140623975" />
     <state x="403" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577520787666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
