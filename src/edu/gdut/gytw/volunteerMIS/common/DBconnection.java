@@ -7,6 +7,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
+/**
+ * 11111
+ */
 public class DBconnection {
     public static Connection getConn() throws ClassNotFoundException, SQLException {
         Properties prop=new Properties();

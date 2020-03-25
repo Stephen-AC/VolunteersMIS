@@ -2,48 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="VolunteersMIS" />
+      <artifact name="VolunteersMIS archive" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40561ef2-bbde-45fe-a649-5655522ee654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/business/Factory/MISeboFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/business/ebi/MISebi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/business/ebo/MISebo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/common/DBconnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/common/PageBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/common/mytaglig/PageTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/common/mytaglig/ReviewResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/common/mytaglig/SearchPreVolunteerTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/common/mytaglig/VolunteerInfoTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/ActivitesServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/CreatePreVolunteerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/ReviewPreVolunteerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/ReviewSignActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/SaveVolunteerInfoServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/SignActivityServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/SignoutServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/CommonFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/PreVolunteerFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/ReviewSignActivityListFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/SignActivityHistoryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/SignActivityResultFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/VolunteerActivityFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/filter/VolunteerInfoFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/controller/listener/VolunteerMISListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/dao/dai/MISdai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/dao/factory/MISdaoFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/dao/impl/MISimpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/PreVolunteer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/Sex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/SignActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/Volunteer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/edu/gdut/gytw/volunteerMIS/entity/VolunteerActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/VolunteersMIS_archive/VolunteersMIS archive.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VolunteersMIS_archive/VolunteersMIS archive.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/gdut/gytw/volunteerMIS/common/DBconnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/gdut/gytw/volunteerMIS/common/DBconnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -448,6 +414,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -497,12 +468,42 @@
       <workItem from="1583909083986" duration="5695000" />
       <workItem from="1583982757667" duration="4304000" />
       <workItem from="1584429479990" duration="1145000" />
-      <workItem from="1585131323298" duration="243000" />
+      <workItem from="1585131323298" duration="554000" />
     </task>
+    <task id="LOCAL-00001" summary="在idea上第一次修改">
+      <created>1585131667588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585131667588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="在idea上第一次修改">
+      <created>1585131719175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585131719175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="在idea上第一次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="在idea上第一次修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="0" key="#Intentions" timestamp="1577764690850">
@@ -542,10 +543,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="786" y="48" width="601" height="721" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1578690171851" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1585131664685">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1585131914613">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585131664685" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585131914613" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1578571724475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -684,10 +685,10 @@
     </state>
     <state x="218" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578703622518" />
     <state x="218" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585131565537" />
-    <state x="261" y="105" key="Vcs.Push.Dialog.v2" timestamp="1585131679071">
+    <state x="261" y="105" key="Vcs.Push.Dialog.v2" timestamp="1585131750260">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="105" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585131679071" />
+    <state x="261" y="105" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585131750260" />
     <state x="527" y="209" width="481" height="402" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1578228006611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
