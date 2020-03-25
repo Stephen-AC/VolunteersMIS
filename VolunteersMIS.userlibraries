@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="E:/IdeaProjects/VolunteersMIS/web/WEB-INF/lib/commons-beanutils-1.9.4.jar" />
+    <archive path="E:/IdeaProjects/VolunteersMIS/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+    <archive path="E:/IdeaProjects/VolunteersMIS/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+    <archive path="E:/IdeaProjects/VolunteersMIS/web/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" />
+    <archive path="E:/IdeaProjects/VolunteersMIS/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" />
+  </library>
+</eclipse-userlibraries>
+
