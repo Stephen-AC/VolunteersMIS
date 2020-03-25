@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 /**
- * 11111
+ * 222222
  */
 public class DBconnection {
     public static Connection getConn() throws ClassNotFoundException, SQLException {
